@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XqbaixFjX7p/NHgPtNV1RMog0YcG3srKd8l3rX6ZAlrApkU+j4+0+vUUpFYzpGcApeFN2G+U2BxAPwfu5Uhchw==",
+  "dgSpecHash": "Em8p5Y4ls76OeWHu9D0gMc2+fCLg4+0SZE1p4NL2jigptI9QmvPWsQ4pfCNGjGs55QQm9f8+RSAdQ6tE5vZaSA==",
   "success": true,
-  "projectFilePath": "F:\\promact\\WorkingONBoard\\C#\\Assignments\\TaxCalculator\\TaxCalculator.csproj",
+  "projectFilePath": "F:\\promact\\WorkingONBoard\\C#\\Assignments\\SimpleTaxCalulator130820\\TaxCalculator\\TaxCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

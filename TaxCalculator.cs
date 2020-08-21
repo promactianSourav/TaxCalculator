@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Runtime.InteropServices.ComTypes;
 
-namespace TaxCalculator
+namespace SimpleTaxCalculator
 {
-    class TaxCalculator
+    public class TaxCalculator
     {
         private double Salary { get; set; }
         private int Age { get; set; }
@@ -33,7 +33,7 @@ namespace TaxCalculator
         private double veryseniorcitizenSecondSlab = 20;
         private double veryseniorcitizenThirdSlab = 30;
 
-        private double CalculateTax()
+        public double CalculateTax()
         {
             double tax = 0;
             if (Age <= 60)
@@ -107,10 +107,31 @@ namespace TaxCalculator
         static void Main(string[] args)
         {
           
-            Console.Write("Enter your Salary(Rupees):");
-            double yourSalary = double.Parse(Console.ReadLine());
-            Console.Write("Enter your Age:");
-            int yourAge = int.Parse(Console.ReadLine());
+            //For avoiding Salary <= 0, only Salary > 0 is valid
+            double yourSalary;
+            do
+            {
+                Console.Write("Enter your Salary(Rupees):");
+                yourSalary = double.Parse(Console.ReadLine());
+                if (yourSalary <= 0)
+                {
+                    Console.WriteLine("Please!...Enter the valid Salary amount.");
+                }
+
+            } while (yourSalary <= 0);
+            
+            //for avoiding Age <=0, only Age > 0 is valid
+            int yourAge ;
+            do
+            {
+                Console.Write("Enter your Age:");
+                yourAge = int.Parse(Console.ReadLine());
+                if (yourAge <= 0)
+                {
+                    Console.WriteLine("Please!...Enter the valid Age.");
+                }
+
+            } while (yourAge <= 0);
 
             TaxCalculator taxCalculator = new TaxCalculator(yourSalary, yourAge);
             double tax = taxCalculator.CalculateTax();

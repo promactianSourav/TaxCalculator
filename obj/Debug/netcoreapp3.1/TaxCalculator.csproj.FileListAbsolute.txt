@@ -24,3 +24,16 @@ F:\promact\WorkingONBoard\C#\Assignments\TaxCalculator\obj\Debug\netcoreapp3.1\T
 F:\promact\WorkingONBoard\C#\Assignments\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.dll
 F:\promact\WorkingONBoard\C#\Assignments\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.pdb
 F:\promact\WorkingONBoard\C#\Assignments\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.genruntimeconfig.cache
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.exe
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.deps.json
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.json
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.runtimeconfig.dev.json
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.dll
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculator.pdb
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csprojAssemblyReference.cache
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfoInputs.cache
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.AssemblyInfo.cs
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.csproj.CoreCompileInputs.cache
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.dll
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.pdb
+F:\promact\WorkingONBoard\C#\Assignments\SimpleTaxCalulator130820\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.genruntimeconfig.cache

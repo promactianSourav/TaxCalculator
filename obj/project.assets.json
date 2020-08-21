@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\promact\\WorkingONBoard\\C#\\Assignments\\TaxCalculator\\TaxCalculator.csproj",
+      "projectUniqueName": "F:\\promact\\WorkingONBoard\\C#\\Assignments\\SimpleTaxCalulator130820\\TaxCalculator\\TaxCalculator.csproj",
       "projectName": "TaxCalculator",
-      "projectPath": "F:\\promact\\WorkingONBoard\\C#\\Assignments\\TaxCalculator\\TaxCalculator.csproj",
+      "projectPath": "F:\\promact\\WorkingONBoard\\C#\\Assignments\\SimpleTaxCalulator130820\\TaxCalculator\\TaxCalculator.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\promact\\WorkingONBoard\\C#\\Assignments\\TaxCalculator\\obj\\",
+      "outputPath": "F:\\promact\\WorkingONBoard\\C#\\Assignments\\SimpleTaxCalulator130820\\TaxCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
